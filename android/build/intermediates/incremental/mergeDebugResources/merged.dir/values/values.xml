@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_name">#ff8c18</color>
+    <color name="arkaplan">#368d9e</color>
+    <color name="bas_kisim_color">#faa248</color>
+    <color name="button_color">#007115</color>
+    <color name="button_color_2">#d73e3e</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="seviye_text_color">#ffffff</color>
+    <string name="app_name">Damla-Oyunu</string>
+    <string name="level">Seviye</string>
+    <string name="play_button">Play</string>
+    <style name="GdxTheme" parent="android:Theme">
+		<item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

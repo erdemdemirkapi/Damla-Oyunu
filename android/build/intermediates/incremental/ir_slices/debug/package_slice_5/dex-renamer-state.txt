@@ -1,0 +1,4 @@
+#Tue Sep 04 14:40:39 EET 2018
+base.0=/Users/erdem/Desktop/Damla-Oyunu-master/android/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml
+		INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:2:1-53:12
+		INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:2:1-53:12
+		INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:5:5-73
+INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:5:5-73
+INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:5:5-73
+INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:5:5-73
+INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:5:5-73
+	android:targetSdkVersion
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:5:41-70
+		INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml
+		INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:5:15-40
+		INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml
+		INJECTED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml
+application
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:7:5-51:19
+	android:label
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:11:9-40
+activity#com.mygdx.game.AnaSayfa
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:13:9-20:20
+	android:label
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:14:13-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:18:27-74
+activity#com.mygdx.game.GameLauncher
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:22:9-31:20
+	android:screenOrientation
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:25:13-50
+	android:label
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:24:13-45
+	android:configChanges
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:26:13-107
+	android:name
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.GAMELAUNCHER+category:name:android.intent.category.DEFAULT
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.GAMELAUNCHER
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:28:25-74
+category#android.intent.category.DEFAULT
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:29:27-73
+activity#com.mygdx.game.Ayarlar
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:33:9-40:20
+	android:label
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:34:13-36
+intent-filter#action:name:android.intent.action.AYARLAR+category:name:android.intent.category.DEFAULT
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.AYARLAR
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:37:17-72
+	android:name
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:37:25-69
+activity#com.mygdx.game.Reklam
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:42:9-49:20
+	android:label
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:43:13-35
+intent-filter#action:name:android.intent.action.REKLAM+category:name:android.intent.category.DEFAULT
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:45:13-48:29
+action#android.intent.action.REKLAM
+ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:46:17-71
+	android:name
+		ADDED from /Users/erdem/Desktop/Damla-Oyunu-master/android/AndroidManifest.xml:46:25-68

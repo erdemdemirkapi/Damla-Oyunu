@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/erdem/Desktop/Damla-Oyunu-master/android/build/intermediates/res/merged/debug/layout_ayarlar.xml.flat",
+        "source": "/Users/erdem/Desktop/Damla-Oyunu-master/android/res/layout/ayarlar.xml"
+    },
+    {
+        "merged": "/Users/erdem/Desktop/Damla-Oyunu-master/android/build/intermediates/res/merged/debug/drawable_button.xml.flat",
+        "source": "/Users/erdem/Desktop/Damla-Oyunu-master/android/res/drawable/button.xml"
+    },
+    {
+        "merged": "/Users/erdem/Desktop/Damla-Oyunu-master/android/build/intermediates/res/merged/debug/font_karikatura_bold.otf.flat",
+        "source": "/Users/erdem/Desktop/Damla-Oyunu-master/android/res/font/karikatura_bold.otf"
+    },
+    {
+        "merged": "/Users/erdem/Desktop/Damla-Oyunu-master/android/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/erdem/Desktop/Damla-Oyunu-master/android/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/erdem/Desktop/Damla-Oyunu-master/android/build/intermediates/res/merged/debug/layout_reklam.xml.flat",
+        "source": "/Users/erdem/Desktop/Damla-Oyunu-master/android/res/layout/reklam.xml"
+    },
+    {
+        "merged": "/Users/erdem/Desktop/Damla-Oyunu-master/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/erdem/Desktop/Damla-Oyunu-master/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/erdem/Desktop/Damla-Oyunu-master/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/erdem/Desktop/Damla-Oyunu-master/android/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/erdem/Desktop/Damla-Oyunu-master/android/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/erdem/Desktop/Damla-Oyunu-master/android/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/erdem/Desktop/Damla-Oyunu-master/android/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/erdem/Desktop/Damla-Oyunu-master/android/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/erdem/Desktop/Damla-Oyunu-master/android/build/intermediates/res/merged/debug/font_karikatura_regular.otf.flat",
+        "source": "/Users/erdem/Desktop/Damla-Oyunu-master/android/res/font/karikatura_regular.otf"
+    },
+    {
+        "merged": "/Users/erdem/Desktop/Damla-Oyunu-master/android/build/intermediates/res/merged/debug/layout_ana_sayfa.xml.flat",
+        "source": "/Users/erdem/Desktop/Damla-Oyunu-master/android/res/layout/ana_sayfa.xml"
+    }
+]
