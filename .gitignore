@@ -5,6 +5,7 @@
 *.ear
 hs_err_pid*
 
+<<<<<<< HEAD
 ## Robovm
 /ios/robovm-build/
 
@@ -12,22 +13,39 @@ hs_err_pid*
 /html/war/
 /html/gwt-unitCache/
 .apt_generated/
+=======
+## GWT
+war/
+html/war/gwt_bree/
+html/gwt-unitCache/
+.apt_generated/
+html/war/WEB-INF/deploy/
+html/war/WEB-INF/classes/
+>>>>>>> c34b22e12e19a1524b52426e5d7dd68057624401
 .gwt/
 gwt-unitCache/
 www-test/
 .gwt-tmp/
 
 ## Android Studio and Intellij and Android in general
+<<<<<<< HEAD
 /android/libs/armeabi/
 /android/libs/armeabi-v7a/
 /android/libs/arm64-v8a/
 /android/libs/x86/
 /android/libs/x86_64/
 /android/gen/
+=======
+android/libs/armeabi/
+android/libs/armeabi-v7a/
+android/libs/x86/
+android/gen/
+>>>>>>> c34b22e12e19a1524b52426e5d7dd68057624401
 .idea/
 *.ipr
 *.iws
 *.iml
+<<<<<<< HEAD
 /android/out/
 com_crashlytics_export_strings.xml
 
@@ -42,16 +60,32 @@ com_crashlytics_export_strings.xml
 /html/bin/
 /ios/bin/
 /ios-moe/bin/
+=======
+out/
+com_crashlytics_export_strings.xml
+
+## Eclipse
+.classpath
+.project
+.metadata
+**/bin/
+tmp/
+>>>>>>> c34b22e12e19a1524b52426e5d7dd68057624401
 *.tmp
 *.bak
 *.swp
 *~.nib
+<<<<<<< HEAD
+=======
+local.properties
+>>>>>>> c34b22e12e19a1524b52426e5d7dd68057624401
 .settings/
 .loadpath
 .externalToolBuilders/
 *.launch
 
 ## NetBeans
+<<<<<<< HEAD
 
 /nbproject/private/
 /android/nbproject/private/
@@ -93,11 +127,19 @@ com_crashlytics_export_strings.xml
 /ios/nbdist/
 /ios-moe/nbdist/
 
+=======
+**/nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+>>>>>>> c34b22e12e19a1524b52426e5d7dd68057624401
 nbactions.xml
 nb-configuration.xml
 
 ## Gradle
 
+<<<<<<< HEAD
 /local.properties
 .gradle/
 gradle-app.setting
@@ -123,3 +165,11 @@ Thumbs.db
 !/ios-moe/xcode/*.xcodeproj/xcshareddata
 !/ios-moe/xcode/*.xcodeproj/project.pbxproj
 /ios-moe/xcode/native/
+=======
+.gradle
+gradle-app.setting
+build/
+
+## OS Specific
+.DS_Store
+>>>>>>> c34b22e12e19a1524b52426e5d7dd68057624401
